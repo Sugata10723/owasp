@@ -260,12 +260,12 @@ SSL(Secure Socket Layer)はTLS(Transport Layer Security)より古いプロトコ
 
 --- 
 # 参考文献
-マスタリングTCP/IP 情報セキュリティ編　齋藤考道　オーム社
-暗号理論入門　林　芳樹　丸善出版
-[すべてはここから始まった～SHA-1の脆弱化](https://atmarkit.itmedia.co.jp/ait/articles/0603/09/news117.html)
-[SSLとTLSの違いとは](https://ssl.sakura.ad.jp/column/ssl_tls/)
-[HTTPとは？HTTPSとの違いをサイト移行で実施するリダイレクト設定などをもとに解説](https://www.itmanage.co.jp/column/about-http-https/)
-[Announcing Windows 11 Insider Preview Build 25324](https://blogs.windows.com/windows-insider/2023/03/23/announcing-windows-11-insider-preview-build-25324/)
-[SHA-1 Broken](https://www.schneier.com/blog/archives/2005/02/sha1_broken.html)
-[NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
+* マスタリングTCP/IP 情報セキュリティ編　齋藤考道　オーム社
+* 暗号理論入門　林　芳樹　丸善出版
+* [すべてはここから始まった～SHA-1の脆弱化](https://atmarkit.itmedia.co.jp/ait/articles/0603/09/news117.html)
+* [SSLとTLSの違いとは](https://ssl.sakura.ad.jp/column/ssl_tls/)
+* [HTTPとは？HTTPSとの違いをサイト移行で実施するリダイレクト設定などをもとに解説](https://www.itmanage.co.jp/column/about-http-https/)
+* [Announcing Windows 11 Insider Preview Build 25324](https://blogs.windows.com/windows-insider/2023/03/23/announcing-windows-11-insider-preview-build-25324/)
+* [SHA-1 Broken](https://www.schneier.com/blog/archives/2005/02/sha1_broken.html)
+* [NIST Retires SHA-1 Cryptographic Algorithm](https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm)
 
