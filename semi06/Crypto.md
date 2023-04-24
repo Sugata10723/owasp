@@ -1,6 +1,6 @@
 ---
-marp:　true
-footer:　"2023/04/18"
+marp: true
+footer: "2023/04/18"
 
 ---
 # A04:Cryptographic Failures
