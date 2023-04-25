@@ -81,20 +81,21 @@ Syslogとは、Linuxサーバなど、システムの動きを記録したUNIX�
 [参考](https://curiositykillscolby.com/2020/12/13/pwning-owasps-juice-shop-pt-48-access-log/)
 
 ---
-# ログの解析
-アカウントにログインしようしてパスワードを何回か間違えている時のアクセスログ
-
-![access log](../pictures/acceslog.png)
-
-(::ffff:となっているのは、IPv4射影アドレスといって、IPv4のアドレスをIPv6のフォーマットで表現しているから)
-
----
 # アクセスログの見方
 * 例
 `192.168.0.101 - - [12/May/2014:20:41:48 +0900] "GET /index.html HTTP/1.1" 200 114 "-" 
 "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0"`
 
 ![apache](../pictures/apache.png)
+
+
+---
+# ログの解析
+アカウントにログインしようしてパスワードを何回か間違えている時のアクセスログ
+
+![access log](../pictures/acceslog.png)
+
+(::ffff:となっているのは、IPv4射影アドレスといって、IPv4のアドレスをIPv6のフォーマットで表現しているから)
 
 --- 
 # データベースにログが保管されているかの確認
