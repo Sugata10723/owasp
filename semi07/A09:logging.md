@@ -132,6 +132,7 @@ SQLインジェクションを利用して、データベースにアクセス�
 * DBのトランザクションログを利用してロールバックを行う
 * DBにログを保管するのは一般的ではない？
 * 
+
 ---
 # 参考文献
 * https://owasp.org/Top10/ja/A09_2021-Security_Logging_and_Monitoring_Failures/
@@ -139,3 +140,4 @@ SQLインジェクションを利用して、データベースにアクセス�
 * https://qiita.com/sasakiki/items/7975bad6fb12fbd6158e
 * https://software.fujitsu.com/jp/manual/manualfiles/M080091/J2X17080/01Z200/moni04/moni0022.html
 * https://curiositykillscolby.com/2020/12/13/pwning-owasps-juice-shop-pt-48-access-log/
+* http://ossfan.net/setup/httpd-06.html
