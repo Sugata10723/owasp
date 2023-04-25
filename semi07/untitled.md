@@ -33,6 +33,7 @@ Syslogとは、Linuxサーバなど、システムの動きを記録したUNIX�
 
 * メッセージ形式
 `日付時刻 送信元 プロセス名[プロセスID]: [ID facility.priority] メッセージテキスト`
+
 * 具体例
 `Apr 10 21:25:21 systemwalker OD_start[1198]: [ID 855564 daemon.error] UX:OD: ERROR: od10921:ObjectDirector initialization time out.`
 
@@ -62,8 +63,7 @@ Syslogとは、Linuxサーバなど、システムの動きを記録したUNIX�
 # 想定される被害
 * 不法なアクセス侵害に気づかず、被害が長期化する
 * 不適切なメッセージを生成することにより、情報の漏洩を引き起こす 
-*　
-
+* 被害に遭った場合、加害者を特定できない。また、そのような抑止力がない。
 ---
 # OWASP juice shop における実践
 * アクセスログの所得
